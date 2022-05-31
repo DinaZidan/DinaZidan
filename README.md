@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DinaZidan
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Back-end 
--
+-    I'm Medical student in level 3 in faculty of Computer and information sciense in Mansoura University
 -
 
 <!---
